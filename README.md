@@ -1,7 +1,9 @@
 # Hola, soy Nicolás Aguirre Velásquez 👋
 
 🎓 Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia.
+
 💻 Enfocado en Ingeniería de Software, especialmente en desarrollo Backend.
+
 🚀 Apasionado por construir sistemas eficientes, escalables y bien diseñados.
 
 ---
@@ -9,6 +11,7 @@
 ## 👨‍💻 Sobre mí
 
 Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo backend.
+
 Actualmente estoy fortaleciendo mis habilidades en tecnologías modernas y buenas prácticas de desarrollo de software.
 
 Me interesa trabajar en:
@@ -54,6 +57,7 @@ Convertirme en Ingeniero de Software Backend profesional y participar en el desa
 
 - GitHub: https://github.com/niko2k7
 - Correo: niaguirrev@unal.edu.co
+- Linkedin: 
 
 ---
 
