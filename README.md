@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hola, soy Nicolás Aguirre Velásquez 👋
 
-<!--
-**niko2k7/niko2k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia.
+💻 Enfocado en Ingeniería de Software, especialmente en desarrollo Backend.
+🚀 Apasionado por construir sistemas eficientes, escalables y bien diseñados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo backend.
+Actualmente estoy fortaleciendo mis habilidades en tecnologías modernas y buenas prácticas de desarrollo de software.
+
+Me interesa trabajar en:
+
+- Desarrollo Backend.
+- APIs REST.
+- Diseño de bases de datos.
+- Arquitectura de software.
+- Sistemas escalables.
+
+---
+
+## ⚙️ Tecnologías que manejo
+
+**Lenguaje principal**
+- Java
+
+**Bases de datos**
+- MySQL
+- PostgreSQL (en aprendizaje)
+
+**Backend**
+- Spring Boot (en aprendizaje)
+
+**Herramientas**
+- Git
+- GitHub
+- Docker (en aprendizaje)
+
+**Metodologías**
+- Scrum
+- Kanban
+
+---
+
+## 🎯 Objetivo profesional
+
+Convertirme en Ingeniero de Software Backend profesional y participar en el desarrollo de sistemas robustos, escalables y de alta calidad.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/niko2k7
+- Correo: niaguirrev@unal.edu.co
+
+---
+
+Siempre aprendiendo y mejorando :).
+
